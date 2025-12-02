@@ -2,14 +2,7 @@
 # Nome do Projeto
 Conecte Saude.
 
-## Instalação
-Passos para instalar.
 
-## Uso
-Como utilizar.
+#Documentação UML
 
-## Contribuição
-Como contribuir.
-
-## Licença
-Tipo de licença.
+<img width="1291" height="632" alt="image" src="https://github.com/user-attachments/assets/01ceaa2a-d970-4469-9339-1addaf98f601" />
